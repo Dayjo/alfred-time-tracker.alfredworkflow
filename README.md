@@ -40,7 +40,7 @@ Turning this off (`tt :config dayEnds false`) will mean that if you do not make 
 #### gistAccessToken
 This is an access token from your github account with gist access. Reports are saved in a gist, and you can use `tt :backup` to backup all of your log files too.
 
-See the section on [Backup](#Backup) below.
+See the section on [Backup](#backup) below.
 
 ---
 
