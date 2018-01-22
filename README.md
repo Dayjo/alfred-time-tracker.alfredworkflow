@@ -47,6 +47,12 @@ See the section on [Backup](#backup) below.
 ### Tracking a Task
 To start tracking a task simply enter: `tt <task-name>` into alfred. You should get a notification saying that the tracking has started.
 
+If you want to add notes at the same time, seperate the notes with the task name using the pipe `|` symbol, for instance;
+
+```
+tt meeting | Meeting client about Project X
+```
+
 ---
 
 ### Stop Tracking
@@ -60,6 +66,13 @@ __Note;__ you don't need to stop tracking between tasks, you can track one, then
 Sometimes you might be tracking lots of the same thing, but want to add notes to a specific task. Typing `tt :note` will bring up a list of the last logs, use the arrow keys to choose which task you which to write a note on and write the note, or hit tab to select it and then write the note.
 
 ![](http://c.dayjo.me/1j1v092a0s0z/Screen%20Recording%202018-01-05%20at%2002.38%20pm.gif)
+
+Additionally you can add a note when you start to track something by adding a pipe symbol followed by the note i.e.
+
+```
+tt meeting | Meeting client about Project X
+```
+
 
 ---
 
