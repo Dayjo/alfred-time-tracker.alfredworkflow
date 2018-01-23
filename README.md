@@ -2,6 +2,9 @@
 
 Simple time tracking workflow for keeping track of tasks.
 
+# WARNING
+This is a VERY early release and doesn't work for everyone. I built this for personal use, and so there are a few caveats, and bugs which I'm working through as I use it. If you do have any issues, please raise them here in the Issues section. 
+
 ## Prerequisites
 * Alfred 3
 * PHP >= 7.0
